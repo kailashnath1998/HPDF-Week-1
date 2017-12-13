@@ -5,13 +5,13 @@ Note: Node.js and Express.js needs to be installed on your system for running th
 This app requires a few dependencies to be installed. They can be installed by typing in the following commands on your terminal/shell
 
 npm init -y <br>
-npm i express --s
-npm i json --s
-npm i request --s
-npm i cookie-parser --s
-npm i body-parser --s
-npm i set-cookie --s
-npm i json-parser --s
+npm i express --s <br>
+npm i json --s <br>
+npm i request --s <br>
+npm i cookie-parser --s <br>
+npm i body-parser --s <br>
+npm i set-cookie --s <br>
+npm i json-parser --s <br>
 
 To start the app, type 'npm run start' on the terminal/shell from the root directory of the project.
 
