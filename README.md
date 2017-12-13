@@ -4,7 +4,7 @@ Note: Node.js and Express.js needs to be installed on your system for running th
 
 This app requires a few dependencies to be installed. They can be installed by typing in the following commands on your terminal/shell
 
-npm init -y
+npm init -y <br>
 npm i express --s
 npm i json --s
 npm i request --s
